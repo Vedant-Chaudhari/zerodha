@@ -5,7 +5,7 @@ A comprehensive, full-stack trading dashboard inspired by Zerodha. This project 
 ---
 
 ## 🌐 Live Demo
-Experience the platform live: [Zerodha Clone Demo](https://zerodha-clone-frontend-beta.vercel.app/)
+Experience the platform live: [Zerodha Clone Demo](https://zerodhaclone-chi.vercel.app/)
 
 ## 💻 Repository
 Source code: [GitHub Repo](https://github.com/Vedant-Chaudhari/zerodha)

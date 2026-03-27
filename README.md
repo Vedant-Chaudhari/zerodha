@@ -8,7 +8,7 @@ A comprehensive, full-stack trading dashboard inspired by Zerodha. This project 
 Experience the platform live: [Zerodha Clone Demo](https://zerodha-clone-frontend-beta.vercel.app/)
 
 ## 💻 Repository
-Source code: [GitHub Repo](https://github.com/Adarsh-kumar-lal/zerodha-clone.git)
+Source code: [GitHub Repo](https://github.com/Vedant-Chaudhari/zerodha)
 
 ---
 
@@ -70,10 +70,3 @@ This project is a functional clone of the Zerodha trading platform, designed to 
 
 ---
 
-## 👨‍💻 Author
-### **Adarsh Kumar Lal**
-
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adarsh-kumar-lal)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-kumar-lal/)
-
-*Feel free to connect with me!*
